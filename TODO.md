@@ -1,0 +1,3 @@
+- [ ] Update src/components/HeroModels/Room.jsx: Remove EffectComposer, SelectiveBloom, screensRef, and related imports. Add screensRef as a prop and assign it to the mesh.
+- [ ] Update src/components/HeroModels/HeroExperience.jsx: Add EffectComposer, SelectiveBloom, and screensRef. Pass screensRef to Room component and place EffectComposer after the group in Canvas.
+- [ ] Test the fix by running the dev server and checking for errors.
